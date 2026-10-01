@@ -23,7 +23,7 @@ Ejecutar los siguientes comandos.
 Paso 1: Clonar el repositorio usando git.
 
 ```nginx
-git clone https://github.com/LuisFer27
+https://github.com/LuisFer27/pruebanach.git
 ```
 
 Paso 2 :Abrir visual studio code.
